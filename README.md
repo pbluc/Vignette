@@ -12,7 +12,7 @@ Put on the headset in your own room and say something like *"make this feel cozi
 
 Every placement is checked against the real room before it appears: no collisions with your furniture, no blocked walkways, and no lamps floating in midair. When a placement fails, the agent is told exactly why and tries again.
 
-I'm an interior decorator as well as a software engineer, so Vignette is built to become a tool I use in real client sessions, not only a demo.
+I'm pursuing interior decorating on top of being a software engineer, so I'm building Vignette with the hopes of using it in real client sessions, not only a demo.
 
 ## How it works
 
