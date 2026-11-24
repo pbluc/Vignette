@@ -14,6 +14,12 @@ Every placement is checked against the real room before it appears: no collision
 
 I'm pursuing interior decorating on top of being a software engineer, so I'm building Vignette with the hopes of using it in real client sessions, not only a demo.
 
+## Why "Vignette"?
+
+In interior design, a *vignette* is a small, intentionally styled arrangement of objects that tells a story within a room: a lamp, a stack of books, and a trailing plant on a side table, or a chair, throw, and floor lamp that turn a corner into a reading nook. Decorators build rooms out of these moments.
+
+That's what Vignette's agent does. Instead of redesigning a whole room at once, it composes arrangements that fit your space and the mood you asked for, the way a decorator would.
+
 ## How it works
 
 ```mermaid
